@@ -1,0 +1,1 @@
+def all_capitals(text):
